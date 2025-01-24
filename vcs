@@ -1,3 +1,2 @@
-# Create script files
 echo "console.log('Hello, World!');" > script1.js
 echo "console.log('This is script 2');" > script2.js
